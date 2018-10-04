@@ -1,0 +1,41 @@
+{
+	"coupons": [
+		{
+			"id": "1",
+			"coup_name": "FLAT50",
+			"prod_type": "ALL",
+			"category": "COMEDY",
+			"artist": "YNAH"
+		},{
+			"id": 2,
+			"coup_name": "SUPERSAVE",
+			"prod_type": "ALL",	
+			"category": "FILMTV",
+			"artist": "ALL"
+		}, {
+			"id": 3,
+			"coup_name": "DART15",
+			"prod_type": "ALL",
+			"category": "ALL",
+			"artist": "DEVI"
+		}, {
+			"id": 4,
+			"coup_name": "LAUF10",
+			"prod_type": "ALL",
+			"category": "COMEDY",
+			"artist": "ALL"
+		}, {
+			"id": 5,
+			"coup_name": "TEE30",
+			"prod_type": "TSHIRTS",
+			"category": "ALL",
+			"artist": "ALL"
+		}, {
+			"id": 6,
+			"coup_name": "TOTES10",
+			"prod_type": "TOTE",
+			"category": "ALL",
+			"artist": "ALL"
+	}
+]
+}

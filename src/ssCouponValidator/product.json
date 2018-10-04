@@ -1,0 +1,56 @@
+{
+	"products":	[
+		{
+			"id": "1",
+			"prod_type": "TSHIRTS",
+			"category": "FILMTV",
+			"artist": "JENNY"
+		}, {
+			"id": 2,
+			"prod_type": "MUGS",
+			"category": "SPORTS",
+			"artist": "AKS"
+		}, {
+			"id": 3,
+			"prod_type": "POSTERS",
+			"category": "FILMTV",
+			"artist": "DEVI"
+		}, {
+			"id": 4,
+			"prod_type": "MUGS",
+			"category": "COMEDY",
+			"artist": "YNAH"
+		}, {
+			"id": 5,
+			"prod_type": "TOTE",
+			"category": "MUSIC",
+			"artist": "PARV"
+		}, {
+			"id": 6,
+			"prod_type": "MAGNETS",
+			"category": "OTHER",
+			"artist": "ZEBA"
+		}, {
+			"id": 7,
+			"prod_type": "TSHIRTS",
+			"category": "SPORTS",
+			"artist": "PARV"
+		}
+		, {
+			"id": 8,
+			"prod_type": "CAPS",
+			"category": "SPORTS",
+			"artist": "PARV"
+		}, {
+			"id": 9,
+			"prod_type": "TOTE",
+			"category": "OTHERS",
+			"artist": "ZEBA"
+		}, {
+			"id": 10,
+			"prod_type": "MAGNETS",
+			"category": "COMEDY",
+			"artist": "DEVI"
+		}
+]
+}
